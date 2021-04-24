@@ -57,12 +57,14 @@ $ cd podcastr
 # Install the dependencies
 $ yarn install
 
-# Make a copy of '.env.example' to '.env'
-# and set with YOUR environment variables.
-$ cp .env.example .env
+# Run the fake API by running the api service in a development environment :)
+$ yarn run server
 
-# Finally, run the api service in a development environment :)
+# Finally, execute the project
 $ yarn dev
+
+# or build a production to execute
+$ yarn build && yarn start
 
 # Well done, Podcastr is started!
 ```
