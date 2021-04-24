@@ -3,11 +3,11 @@
   <h1>Podcastr</h1>
   <p>🎧 A platform for running podcasts 🎧</p>
   <p>
-    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Franklyn-S/NLW5/podcastr?color=%232196F3">
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Franklyn-S/podcastr?color=%232196F3">
     <a href="https://www.linkedin.com/in/franklyn-s-178489125/" target="_blank" rel="noopener noreferrer">
       <img alt="Made by" src="https://img.shields.io/badge/made%20by-Franklyn%20Seabra-%232196F3">
     </a>          
-    <img alt="GitHub" src="https://img.shields.io/github/license/Franklyn-S/NLW5/podcastr?color=%232196F3">
+    <img alt="GitHub" src="https://img.shields.io/github/license/Franklyn-S/podcastr?color=%232196F3">
   </p>
 </div>
 
@@ -47,7 +47,7 @@ The podcast is an entertainment medium that has been growing a lot in recent tim
 *Clone the project and access the folder*
 
 ```bash
-$ git clone https://github.com/Franklyn-S/NLW5/podcastr 
+$ git clone https://github.com/Franklyn-S/podcastr 
 $ cd podcastr
 ```
 
